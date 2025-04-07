@@ -261,7 +261,7 @@ header.shadow {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
-    gap: 2rem;
+    gap: 4rem;
     margin-top: 4rem;
 }
 .skills-img img {
@@ -310,6 +310,15 @@ span {
 }
 .react-bar {
     width: 80%;
+}
+.py-bar{
+    width: 50%;
+}
+.sql-bar{
+    width: 60%;
+}
+.cpp-bar{
+    width: 90%;
 }
 .services-container {
     display: grid;
